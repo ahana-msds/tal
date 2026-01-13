@@ -1,0 +1,16 @@
+body {
+    font-family: arial;
+    padding: 20px;
+}
+
+li {
+    margin: 6px;
+}
+
+.selected {
+    color: green;
+}
+
+.rejected {
+    color: red;
+}
